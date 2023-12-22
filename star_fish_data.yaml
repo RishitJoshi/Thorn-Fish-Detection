@@ -1,0 +1,9 @@
+train: D:\Work\yolo\images\train\
+val:   D:\Work\yolo\images\val\
+test:  D:\Work\yolo\images\test\
+
+# number of classes
+nc: 1
+
+# class names
+names: ["starfish"]
